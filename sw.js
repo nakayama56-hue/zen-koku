@@ -1,4 +1,4 @@
-const CACHE_NAME = 'touki-kanryo-v202609090001';
+const CACHE_NAME = 'touki-kanryo-v202609090002';
 const FALLBACK = './全国登記完了予定日一覧.html';
 const ASSETS = [
   './全国登記完了予定日一覧.html',
